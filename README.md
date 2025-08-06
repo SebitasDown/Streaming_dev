@@ -16,7 +16,7 @@ Este proyecto es un ejemplo de una base de datos NoSQL para una plataforma de st
 
 ## 🛠️ Comandos utilizados
 
-### 1. Selección de base de datos
+## 1. Selección de base de datos
 
 ### 2. Insertar documentos
 ```js
