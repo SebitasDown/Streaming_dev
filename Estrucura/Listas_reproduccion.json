@@ -1,0 +1,19 @@
+{
+    "id_listas": "lista_1",
+    "id_usuario": "usuario_1",
+    "nombre_lista": "favorita",
+    "contenido": [
+        {
+            "id_contenido": "pelicula_1",
+            "id_ps": "1PS2",
+            "episodio":null,
+            "capitulo": null
+        },
+        {   
+            "id_contemnido": "serie45",
+            "id_ps": "2PS1",
+            "episodio":null,
+            "capitulo": null
+        }
+    ]
+}

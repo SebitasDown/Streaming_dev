@@ -1,0 +1,24 @@
+{
+    "id_ps": "1PS2",
+    "tipo": "pelicula",
+    "titulo": "Matrix",
+    "duracion": 135,
+    "age": 1999,
+    "generos": ["Ciencia ficcion", "Accion"],
+    "valoraciones" : [
+        {
+            "id_usuario": "usuario_1",
+            "puntuación": 5,
+            "fecha": "2024-04-22 18:20:00"
+        }
+    ],
+    "comentarios": [
+        {
+            "id_usuario": "usuario_1",
+            "comentario" : "Increible",
+            "episodio": null,
+            "fecha":"2024-04-22 18:20:00"
+        }
+    ]
+
+}

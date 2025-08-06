@@ -1,0 +1,15 @@
+{
+    "id_usuario": "usuario_1",
+    "nombre": "Susana",
+    "correo": "susagc@gmail.com",
+    "generos_preferidos": ["acción", "ciencia ficción"],
+    "historial": [
+        {
+            "id_historial": "historial_1",
+            "fecha": "2025-08-01 22:00:01",
+            "ultima_duracion": 54,
+            "episodio": null,
+            "temporada": null
+        }
+    ]
+}

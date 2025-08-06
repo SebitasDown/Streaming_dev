@@ -1,0 +1,467 @@
+[
+  {
+    "_id": "lista_1",
+    "id_usuario": "usuario_1",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "1PS5",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS4",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_2",
+    "id_usuario": "usuario_2",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "2PS5",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS1",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_3",
+    "id_usuario": "usuario_3",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "2PS3",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS5",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS5",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_4",
+    "id_usuario": "usuario_4",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "2PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS3",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_5",
+    "id_usuario": "usuario_5",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "2PS1",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS1",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_6",
+    "id_usuario": "usuario_6",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "1PS1",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS1",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS2",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS5",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_7",
+    "id_usuario": "usuario_7",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "1PS5",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS5",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_8",
+    "id_usuario": "usuario_8",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "2PS2",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS5",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS5",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_9",
+    "id_usuario": "usuario_9",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "2PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS3",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS1",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_10",
+    "id_usuario": "usuario_10",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "1PS2",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS3",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS1",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS2",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_11",
+    "id_usuario": "usuario_11",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "2PS5",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS3",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS1",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_12",
+    "id_usuario": "usuario_12",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "2PS3",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS5",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS3",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS3",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_13",
+    "id_usuario": "usuario_13",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "2PS1",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS2",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_14",
+    "id_usuario": "usuario_14",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "2PS2",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS2",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_15",
+    "id_usuario": "usuario_15",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "1PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS2",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS1",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS3",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_16",
+    "id_usuario": "usuario_16",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "1PS5",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS3",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS5",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_17",
+    "id_usuario": "usuario_17",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "1PS3",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS3",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_18",
+    "id_usuario": "usuario_18",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "1PS4",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS5",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS2",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "1PS5",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_19",
+    "id_usuario": "usuario_19",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "1PS1",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS2",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS3",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  },
+  {
+    "_id": "lista_20",
+    "id_usuario": "usuario_20",
+    "nombre_lista": "Mi lista favorita",
+    "contenido": [
+      {
+        "id_contenido": "2PS2",
+        "episodio": null,
+        "capitulo": null
+      },
+      {
+        "id_contenido": "2PS1",
+        "episodio": null,
+        "capitulo": null
+      }
+    ]
+  }
+]
