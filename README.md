@@ -21,11 +21,7 @@ Este proyecto es un ejemplo de una base de datos NoSQL para una plataforma de st
 ### 2. Insertar documentos
 ```js
 use streamhub
-*2. Insertar documentos
-Usuarios
-js
-Copiar
-Editar
+
 db.usuarios.insertOne({
   _id: "usuario_001",
   nombre: "Pepito",
