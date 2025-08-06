@@ -1,0 +1,437 @@
+[
+  {
+    "_id": "1PS1",
+    "titulo": "Inception",
+    "duracion": 148,
+    "anio": 2010,
+    "generos": [
+      "Ciencia ficción",
+      "Acción"
+    ],
+    "tipo": "pelicula",
+    "valoraciones": [
+      {
+        "id_usuario": "usuario_18",
+        "puntuacion": 5,
+        "fecha": "2025-02-08 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_4",
+        "puntuacion": 2,
+        "fecha": "2025-06-23 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_4",
+        "puntuacion": 4,
+        "fecha": "2025-01-18 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_2",
+        "puntuacion": 2,
+        "fecha": "2025-07-19 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_8",
+        "puntuacion": 5,
+        "fecha": "2025-02-22 00:01:53"
+      }
+    ],
+    "comentarios": [
+      {
+        "id_usuario": "usuario_18",
+        "comentario": "Increíble",
+        "episodio": null,
+        "fecha": "2025-04-20 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_4",
+        "comentario": "Increíble",
+        "episodio": null,
+        "fecha": "2025-07-17 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_4",
+        "comentario": "Meh",
+        "episodio": null,
+        "fecha": "2025-06-30 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_2",
+        "comentario": "Buenísima",
+        "episodio": null,
+        "fecha": "2025-07-02 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_8",
+        "comentario": "Increíble",
+        "episodio": null,
+        "fecha": "2025-05-31 00:01:53"
+      }
+    ]
+  },
+  {
+    "_id": "1PS2",
+    "titulo": "Matrix",
+    "duracion": 135,
+    "anio": 1999,
+    "generos": [
+      "Ciencia ficción",
+      "Acción"
+    ],
+    "tipo": "pelicula",
+    "valoraciones": [
+      {
+        "id_usuario": "usuario_18",
+        "puntuacion": 4,
+        "fecha": "2025-04-22 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_1",
+        "puntuacion": 5,
+        "fecha": "2025-06-16 00:01:53"
+      }
+    ],
+    "comentarios": [
+      {
+        "id_usuario": "usuario_18",
+        "comentario": "Meh",
+        "episodio": null,
+        "fecha": "2025-03-10 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_1",
+        "comentario": "No me gustó",
+        "episodio": null,
+        "fecha": "2025-01-20 00:01:53"
+      }
+    ]
+  },
+  {
+    "_id": "1PS3",
+    "titulo": "Titanic",
+    "duracion": 195,
+    "anio": 1997,
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "tipo": "pelicula",
+    "valoraciones": [
+      {
+        "id_usuario": "usuario_18",
+        "puntuacion": 5,
+        "fecha": "2025-04-23 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_2",
+        "puntuacion": 2,
+        "fecha": "2025-04-12 00:01:53"
+      }
+    ],
+    "comentarios": [
+      {
+        "id_usuario": "usuario_18",
+        "comentario": "Excelente trama",
+        "episodio": null,
+        "fecha": "2025-07-17 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_2",
+        "comentario": "Increíble",
+        "episodio": null,
+        "fecha": "2025-05-08 00:01:53"
+      }
+    ]
+  },
+  {
+    "_id": "1PS4",
+    "titulo": "Joker",
+    "duracion": 122,
+    "anio": 2019,
+    "generos": [
+      "Drama",
+      "Crimen"
+    ],
+    "tipo": "pelicula",
+    "valoraciones": [
+      {
+        "id_usuario": "usuario_4",
+        "puntuacion": 5,
+        "fecha": "2025-01-27 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_12",
+        "puntuacion": 3,
+        "fecha": "2025-05-15 00:01:53"
+      }
+    ],
+    "comentarios": [
+      {
+        "id_usuario": "usuario_4",
+        "comentario": "Excelente trama",
+        "episodio": null,
+        "fecha": "2025-05-05 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_12",
+        "comentario": "Buenísima",
+        "episodio": null,
+        "fecha": "2025-06-13 00:01:53"
+      }
+    ]
+  },
+  {
+    "_id": "1PS5",
+    "titulo": "Avengers",
+    "duracion": 143,
+    "anio": 2012,
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "tipo": "pelicula",
+    "valoraciones": [
+      {
+        "id_usuario": "usuario_4",
+        "puntuacion": 1,
+        "fecha": "2025-04-04 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_3",
+        "puntuacion": 2,
+        "fecha": "2025-07-05 00:01:53"
+      }
+    ],
+    "comentarios": [
+      {
+        "id_usuario": "usuario_4",
+        "comentario": "Excelente trama",
+        "episodio": null,
+        "fecha": "2025-05-16 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_3",
+        "comentario": "Buenísima",
+        "episodio": null,
+        "fecha": "2025-05-21 00:01:53"
+      }
+    ]
+  },
+  {
+    "_id": "2PS1",
+    "titulo": "Stranger Things",
+    "duracion": 50,
+    "anio": 2016,
+    "generos": [
+      "Ciencia ficción",
+      "Terror"
+    ],
+    "tipo": "serie",
+    "valoraciones": [
+      {
+        "id_usuario": "usuario_8",
+        "puntuacion": 4,
+        "fecha": "2025-06-14 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_9",
+        "puntuacion": 2,
+        "fecha": "2025-06-13 00:01:53"
+      }
+    ],
+    "comentarios": [
+      {
+        "id_usuario": "usuario_8",
+        "comentario": "Excelente trama",
+        "episodio": null,
+        "fecha": "2025-05-28 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_9",
+        "comentario": "Buenísima",
+        "episodio": null,
+        "fecha": "2025-06-15 00:01:53"
+      }
+    ]
+  },
+  {
+    "_id": "2PS2",
+    "titulo": "Breaking Bad",
+    "duracion": 47,
+    "anio": 2008,
+    "generos": [
+      "Drama",
+      "Crimen"
+    ],
+    "tipo": "serie",
+    "valoraciones": [
+      {
+        "id_usuario": "usuario_3",
+        "puntuacion": 5,
+        "fecha": "2025-06-22 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_9",
+        "puntuacion": 1,
+        "fecha": "2025-03-31 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_5",
+        "puntuacion": 1,
+        "fecha": "2025-05-08 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_18",
+        "puntuacion": 1,
+        "fecha": "2025-07-07 00:01:53"
+      }
+    ],
+    "comentarios": [
+      {
+        "id_usuario": "usuario_3",
+        "comentario": "Excelente trama",
+        "episodio": null,
+        "fecha": "2025-04-29 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_9",
+        "comentario": "Increíble",
+        "episodio": null,
+        "fecha": "2025-04-06 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_5",
+        "comentario": "No me gustó",
+        "episodio": null,
+        "fecha": "2025-03-12 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_18",
+        "comentario": "No me gustó",
+        "episodio": null,
+        "fecha": "2025-04-18 00:01:53"
+      }
+    ]
+  },
+  {
+    "_id": "2PS3",
+    "titulo": "The Office",
+    "duracion": 22,
+    "anio": 2005,
+    "generos": [
+      "Comedia"
+    ],
+    "tipo": "serie",
+    "valoraciones": [
+      {
+        "id_usuario": "usuario_7",
+        "puntuacion": 1,
+        "fecha": "2025-01-26 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_16",
+        "puntuacion": 4,
+        "fecha": "2025-02-02 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_15",
+        "puntuacion": 4,
+        "fecha": "2025-04-24 00:01:53"
+      }
+    ],
+    "comentarios": [
+      {
+        "id_usuario": "usuario_7",
+        "comentario": "Excelente trama",
+        "episodio": null,
+        "fecha": "2025-03-22 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_16",
+        "comentario": "Increíble",
+        "episodio": null,
+        "fecha": "2025-03-07 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_15",
+        "comentario": "Increíble",
+        "episodio": null,
+        "fecha": "2025-03-15 00:01:53"
+      }
+    ]
+  },
+  {
+    "_id": "2PS4",
+    "titulo": "The Mandalorian",
+    "duracion": 38,
+    "anio": 2019,
+    "generos": [
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "tipo": "serie",
+    "valoraciones": [
+      {
+        "id_usuario": "usuario_16",
+        "puntuacion": 3,
+        "fecha": "2025-03-21 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_13",
+        "puntuacion": 3,
+        "fecha": "2025-01-21 00:01:53"
+      }
+    ],
+    "comentarios": [
+      {
+        "id_usuario": "usuario_16",
+        "comentario": "Increíble",
+        "episodio": null,
+        "fecha": "2025-04-01 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_13",
+        "comentario": "No me gustó",
+        "episodio": null,
+        "fecha": "2025-06-04 00:01:53"
+      }
+    ]
+  },
+  {
+    "_id": "2PS5",
+    "titulo": "Loki",
+    "duracion": 42,
+    "anio": 2021,
+    "generos": [
+      "Acción",
+      "Fantasía"
+    ],
+    "tipo": "serie",
+    "valoraciones": [
+      {
+        "id_usuario": "usuario_2",
+        "puntuacion": 1,
+        "fecha": "2025-04-06 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_8",
+        "puntuacion": 2,
+        "fecha": "2025-05-30 00:01:53"
+      }
+    ],
+    "comentarios": [
+      {
+        "id_usuario": "usuario_2",
+        "comentario": "Increíble",
+        "episodio": null,
+        "fecha": "2025-01-20 00:01:53"
+      },
+      {
+        "id_usuario": "usuario_8",
+        "comentario": "Meh",
+        "episodio": null,
+        "fecha": "2025-06-09 00:01:53"
+      }
+    ]
+  }
+]
